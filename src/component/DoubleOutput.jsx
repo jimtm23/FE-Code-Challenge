@@ -27,7 +27,7 @@ const DoubleOutput = () => {
         <form>
             <Row>
                 <Col className="input-container">
-                <h4 className="input-container-title">Input</h4>
+                <h5 className="input-container-title">Input</h5>
                 <Form.Label>
                     Array
                 </Form.Label>
@@ -39,7 +39,7 @@ const DoubleOutput = () => {
                     />
                 </Col>
                 <Col className="input-container">
-                <h4 className="input-container-title">Output</h4>
+                <h5 className="input-container-title">Output</h5>
                 <Form.Label>
                     Double
                 </Form.Label>

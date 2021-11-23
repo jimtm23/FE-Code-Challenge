@@ -8,11 +8,11 @@ function App() {
 
   return (
     <Container>
-      <div className="box" style={{minHeight:"700px"}}>
+      <div className="box" style={{minHeight:"600px"}}>
         <div className="content">
           <div className="center-text">
-            <h2>Medirecords Front end Code Challenge</h2>
-            <h4>Please try to implement following within one hour</h4>
+            <h3>Medirecords Front end Code Challenge</h3>
+            <h5>Please try to implement following within one hour</h5>
           </div>
           <br/>
           <DoubleOutput></DoubleOutput>
