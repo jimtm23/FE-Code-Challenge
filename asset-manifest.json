@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FE-Code-Challenge/static/css/main.19c2ff3e.chunk.css",
+    "main.js": "/FE-Code-Challenge/static/js/main.896d861a.chunk.js",
+    "main.js.map": "/FE-Code-Challenge/static/js/main.896d861a.chunk.js.map",
+    "runtime-main.js": "/FE-Code-Challenge/static/js/runtime-main.2f2e8981.js",
+    "runtime-main.js.map": "/FE-Code-Challenge/static/js/runtime-main.2f2e8981.js.map",
+    "static/css/2.383c0125.chunk.css": "/FE-Code-Challenge/static/css/2.383c0125.chunk.css",
+    "static/js/2.c16c9deb.chunk.js": "/FE-Code-Challenge/static/js/2.c16c9deb.chunk.js",
+    "static/js/2.c16c9deb.chunk.js.map": "/FE-Code-Challenge/static/js/2.c16c9deb.chunk.js.map",
+    "static/js/3.eb4b90d0.chunk.js": "/FE-Code-Challenge/static/js/3.eb4b90d0.chunk.js",
+    "static/js/3.eb4b90d0.chunk.js.map": "/FE-Code-Challenge/static/js/3.eb4b90d0.chunk.js.map",
+    "index.html": "/FE-Code-Challenge/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/FE-Code-Challenge/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.19c2ff3e.chunk.css.map": "/FE-Code-Challenge/static/css/main.19c2ff3e.chunk.css.map",
+    "static/js/2.c16c9deb.chunk.js.LICENSE.txt": "/FE-Code-Challenge/static/js/2.c16c9deb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FE-Code-Challenge/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f2e8981.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.c16c9deb.chunk.js",
+    "static/css/main.19c2ff3e.chunk.css",
+    "static/js/main.896d861a.chunk.js"
+  ]
+}
