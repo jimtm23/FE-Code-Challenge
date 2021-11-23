@@ -1,8 +1,8 @@
 {
+  "homepage": "http://jimtm23.github.io/FE-Code-Challenge",
   "name": "fe-challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jimtm23.github.io/FE-Code-Challenge",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
